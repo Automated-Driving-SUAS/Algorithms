@@ -45,7 +45,7 @@ Note: local git repository is you folder of files on your laptop.
 
 * git push - to upload all changes on the server (To the GitHub repositiry)
 
-git pull - take out the changes from the git repository (To update you file in local repo from GitHub repo)
+* git pull - take out the changes from the git repository (To update you file in local repo from GitHub repo)
 Note: the changes will be taken as default from the master branch
 
 
