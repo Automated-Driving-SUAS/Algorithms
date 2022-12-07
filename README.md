@@ -4,6 +4,7 @@ Here you can find algorithms and code related to the project
 In the folder Algorithms you will find the current MATLAB/SIMULINK/C++ files for the project.
 
 Under the link https://mega.nz/folder/8bkSgKTC#Z9Gc_16WzOTBEaBSgeUETg you will find cloud with the BagFile of the project
+
 Under the link https://discord.gg/8c3nUPEz you will find the DISCORD server
 
 
